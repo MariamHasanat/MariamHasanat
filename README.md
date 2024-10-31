@@ -1,5 +1,3 @@
-![coder-wallpaper--18773](https://github.com/user-attachments/assets/b5c21662-068b-4e1f-b10a-0265ec599b70)
-
 <h1 align="center">Hi 👋, I'm Mariam Hasanat</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
