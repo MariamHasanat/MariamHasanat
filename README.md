@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **GitHubSocial**
 
-- 🌱 I’m currently learning **frontend web development on Udacityy Program**
+- 🌱 I’m currently learning **frontend web development on Udacity Program**
 
 - 👨‍💻 All of my projects are available at [https://mariam-hasanat-portfolio.netlify.app/](https://mariam-hasanat-portfolio.netlify.app/)
 
