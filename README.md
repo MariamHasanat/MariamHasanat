@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamhasanat" alt="mariamhasanat" /></a> </p>
 
-- 🔭 I’m currently working on **GitHubSocial**
-
-- 🌱 I’m currently learning **frontend web development on Udacity Program**
 
 - 👨‍💻 All of my projects are available at [https://mariam-hasanat-portfolio.netlify.app/](https://mariam-hasanat-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, JS, HTML, CPP, CSS, Unit-Testing, React-Router**
+- 💬 Ask me about **React, JS, HTML, CPP, CSS, Unit-Testing, Webpack, SCSS, Angular**
 
 - 📫 How to reach me **hasanattmariam@gmail.com**
 
