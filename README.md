@@ -14,4 +14,4 @@ Interests: UI/UX design & continuous learning
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I enjoy watching carpet-cleaning videos — oddly satisfying!
+⚡ Fun fact: I enjoy watching carpet-cleaning videos, oddly satisfying!
